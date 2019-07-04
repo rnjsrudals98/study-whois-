@@ -22,6 +22,9 @@ C:\Users\lg\Desktop\대학교\후이즈\study(whois)>git status
 On branch master
 Your branch is up to date with 'origin/master'.
 
+앙 기모띠
+
+
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
@@ -40,4 +43,4 @@ Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/rnjsrudals98/study-whois-.git
    e750993..e91d365  master -> master
 
-C:\Users\lg\Desktop\대학교\후이즈\study(whois)>
+C:\Users\lg\Desktop\대학교\후이즈\study(whoi
